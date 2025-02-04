@@ -18,7 +18,7 @@ One of our cool concepts is to make everything fully hosted and managed on GitHu
 
 To become a member of the GitHub Lowlands Community, please follow these steps:
 
-1. [Create a new membership request issue](https://github.com/GI-Low/Membership/issues/new/choose)
+1. [Request membership](https://github.com/GI-Low/Membership/issues/new/choose)
   
 2. Fill out the template with your GitHub username and any additional information.
 
