@@ -5,9 +5,12 @@
 
 
 
-Welcome to the GitHub Lowlands Community! 🌍✨ As far as we know, we're the first GitHub (Copilot) Community to sprout from the Netherlands! 🇳🇱
+Welcome to the GitHub Lowlands Community! 🌍✨  
+  
+As far as we know, we're the first GitHub (Copilot) Community to sprout from the Netherlands! 🇳🇱
 
-We're not just aiming to be a community; we want to be a user group and so much more. The details are still in the works, but that's part of the fun, right?
+We're not just aiming to be a community; we want to be a user group and so much more.  
+The details are still in the works, but that's part of the fun, right?
 
 One of our cool concepts is to make everything fully hosted and managed on GitHub. We'll be using Projects, Actions, Discussions, GitHub Pages, and all the awesome tools GitHub has to offer. It's going to be a geeky paradise! 🚀💻
 
