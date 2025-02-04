@@ -22,8 +22,6 @@ To become a member of the GitHub Lowlands Community, please follow these steps:
   
 2. Fill out the template with your GitHub username and any additional information.
 
-   ![image](https://github.com/user-attachments/assets/cc6264fb-51a0-4103-9c8e-98aba905c047)
-
 ### Quick Start
 
 * [Discussions & Product Feedback](https://github.com/orgs/gi-low/discussions)
